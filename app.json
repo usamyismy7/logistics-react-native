@@ -1,28 +1,23 @@
 {
   "expo": {
-    "name": "mad-project",
-    "slug": "snack-7a40fc54-920f-4666-9ca7-85406ba987c4",
+    "name": "logistics-react-native",
+    "slug": "snack-7c04035c-8c9b-417c-ba4b-5f1f7a073e76",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#ffffff"
       }
     },
     "web": {
